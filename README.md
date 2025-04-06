@@ -1,8 +1,8 @@
 Hello, everyone!
-My name is Raphael Morgado, I'm a civil engineer from Brazil and I passionate about solving problems.
-I was always drawn into figuring out better ways of doing things. And this is what motivated me learning programming.
-I am currently adding some programming skills and BI tools to my working routine, trying to optimize every possible activity.
-I have knowledge on Python language, using libraries such as Pandas and Numpy, and also some Machine Learning algorithms. 
+
+My name is Raphael Morgado, I'm graduated in civil engineer and I passionate about solving problems. I was always drawn into figuring out better ways of doing things. And this is what motivated me learning programming. At the end of 2024 I started a MBA in Data Science & Analytics.
+
+In 2023, I started a career change, migrating from Project Management to become a Data Analyst. The path has not been easy but it is certainly very fascinating. I already learned much about SQL queries and DAX language, but also a few about data engineering.
   
 <!---
 raphaelbmorgado/raphaelbmorgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
